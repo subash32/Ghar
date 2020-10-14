@@ -1,4 +1,20 @@
 #include <iostream>
 int main(){
    std::cout<<"Hello World"<<std::endl;
+//This is a comment from subash
+}
+
+int Kushal(){
+//kushal work here
+return 5;
+}
+
+int Roshan(){
+//kushal work here
+return 5;
+}
+
+int Yashmin(){
+//kushal work here
+return 5;
 }
